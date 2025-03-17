@@ -1,3 +1,21 @@
+"""
+=========================================================
+16-Puzzle Solver - AI Search Algorithms
+=========================================================
+Developed by:
+- Maria Chmite (@MariaChmite)
+- Salim El Ghersse (@SalimElGhersse)
+- Mohamed Ouballouk (@MohamedOuballouk)
+
+Description:
+This script implements search algorithms to solve the 16-Puzzle problem. 
+It includes state management, heuristic evaluations, and search strategies 
+to find the optimal solution.
+
+=========================================================
+"""
+
+
 import util
 import heapq
 
